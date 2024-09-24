@@ -45,6 +45,7 @@ Traduções, Carros Autônomos, Robótica, Medicina Personalizada, etc.
 **Agente:** É qualquer coisa que possa ser considerada capaz de perceber seu ambiente por meio de sensores e de agir sobre esse ambiente por meio de atuadores.
 
 **Exemplo:**
+
        - Agente Humano
        Agentes: Olhos, língua, pele, ouvido, nariz
        Atuadores: Boca, mãos, braços, pernas

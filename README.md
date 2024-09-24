@@ -73,8 +73,9 @@ Traduções, Carros Autônomos, Robótica, Medicina Personalizada, etc.
 
   **Exemplo de Aplicação:**
   
-            O mundo do aspirador de pó:
-            Função de agentes:
+  O mundo do aspirador de pó:
+  
+  - Função de agentes:
     
 ![image](https://github.com/user-attachments/assets/3e665a14-4324-4e31-9d08-b20f4a554f82)
 
